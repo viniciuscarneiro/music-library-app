@@ -2,6 +2,7 @@
 # Music Library App
 
 This project is a Music Library application that allows users to manage their music collections. 
+
 It utilizes Spring Boot for the backend and MongoDB as the database.
 
 ## Prerequisites
